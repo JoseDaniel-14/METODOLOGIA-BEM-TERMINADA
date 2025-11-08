@@ -1,0 +1,14 @@
+.pantalones__shoes {
+  margin-top: 10px;
+  background-color: rgb(56, 9, 210);
+  padding: 20px;
+  border: 1px solid #676666;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+
+.pantalones__shoes--item {
+  font-weight: bold;
+  color: rgb(238, 10, 10)
+}
